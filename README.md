@@ -24,7 +24,7 @@ Unity, C#, Python, Immersive technology, and any general software development qu
 
 **Game Engine:** 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width='50' height='50' /> <img src="https://ue-cdn.artstation.com/imgproxy/dUWTYhYaq2OhG2CVlmcCTNB9r2xOtXiRWD9-0WnpOc8/filename:launch-topic-image.png/resizing_type:fill/width:640/height:640/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9kb2N1bWVudGF0aW9uL2ltYWdlcy85YjZlMTczMC1kZjk2LTRiYjItOTQzZS0xZDc2NjdmNjE1ZGUvbGF1bmNoLXRvcGljLWltYWdlLnBuZw" width='50' height='50' /> <img src="https://blog.playcanvas.com/assets/media/playcanvas-logo.png" width='50' height='50' /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width='50' height='50' /> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width='70' height='50' /> <img src="https://playcanvas.com/assets/images/PlayCanvas-OG-Image.png" width='95' height='50' /> &nbsp;
 
 **Immersive Technology:**
 
@@ -35,7 +35,7 @@ WebAR, MetaVerse, Spatial Computing, and Digital Twin. &nbsp;
 **Other Tools/SDKs:**
 
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="70" height="50" />
-<img src="https://ue-cdn.artstation.com/imgproxy/zqvQnTaKpgJUonFlZg-ZMM9ROJac-UNee9Mi0jd_Teo/filename:index.jpg/resizing_type:fill/width:640/height:640/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9pbWFnZXMvY2FjZGNjMTctY2JjMy00M2VmLWJkMjktZDdmZWI4YmY0NTc5L2luZGV4LmpwZw" width="50" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlmWp5p3RaLQj0geGdVz7d_IvGTFKY93hIQ&s" width="50" height="50">
 <img src="https://plugins.jetbrains.com/files/69/503276/icon/pluginIcon.svg" width="50" height="50">
 <img src="https://asset.brandfetch.io/idgfcHhU31/iduZWg1koN.svg?updated=1668047656352" width="50" height="50">
 <img src="https://static.wikia.nocookie.net/google/images/b/bc/Arcore-logo.png/revision/latest?cb=20190204192627" width="70" height="50">
