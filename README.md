@@ -1,4 +1,4 @@
-# 💫   Akshay Kumar | XR Developer, Technical Lead, & Innovator 
+# 💫   Akshay Kumar | XR Developer, Solutions Architect, & Innovator 
 
 🔭 I’m currently working on: &nbsp;  
 	I craft cutting-edge immersive experiences that transform how we interact with the world.	
