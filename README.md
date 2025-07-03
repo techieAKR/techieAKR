@@ -1,6 +1,6 @@
 # 💫 Akshay Kumar | Senior AI + XR Solution Architect | Innovator in Immersive Technologies
 
-Copenhagen, Denmark | actively seeking new role
+Copenhagen, Denmark | actively seeking for new role
 
 [LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/) | [Email](mailto:baliyan.akr@gmail.com) | [Blog](https://medium.com/@techieAKR) | [Twitter](https://twitter.com/techieAKR) | [Instagram](https://www.instagram.com/techieakr/)
 
