@@ -47,6 +47,15 @@ Unity, Unreal Engine, WebXR, C#, C++, Python, Qt, Immersive Technologies, Comput
 
 ---
 
+### ✨ **Featured Projects:**
+
+#### **AKRGS-Tools: Content Moderation & Transcoding**
+This repository hosts a suite of Python tools designed for efficient content moderation and transcoding. It streamlines the process of managing and converting various media assets, ensuring compliance and compatibility across different platforms.
+
+Explore the code and detailed documentation: [https://github.com/techieAKR/AKRGS-Tools](https://github.com/techieAKR/AKRGS-Tools)
+
+---
+
 ### 💻 **Tech Stack:**
 
 **Programming Languages:**
