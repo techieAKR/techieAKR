@@ -6,7 +6,7 @@ Copenhagen, Denmark | actively seeking for new role
 
 ---
 
-### 🚀 **About Me:**
+### 🚀 **Professional Summary:**
 
 I am an innovative and results-driven AI + XR Solution Architect with over 9 years of experience in designing, developing, and deploying cutting-edge immersive solutions. My expertise spans healthcare, automotive, and enterprise domains, where I leverage Unity, Unreal Engine, and WebXR to create scalable and impactful real-time 3D applications.
 
