@@ -1,6 +1,6 @@
 # 💫 Akshay Kumar | Senior AI + XR Solution Architect | Innovator in Immersive Technologies
 
-Copenhagen, Denmark | actively seeking roles in Germany & Denmark
+Copenhagen, Denmark | actively seeking new role
 
 [LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/) | [Email](mailto:baliyan.akr@gmail.com) | [Blog](https://medium.com/@techieAKR) | [Twitter](https://twitter.com/techieAKR) | [Instagram](https://www.instagram.com/techieakr/)
 
@@ -44,15 +44,6 @@ I'm keen to collaborate on challenging projects involving:
 ### 💬 **Areas of Expertise:**
 
 Unity, Unreal Engine, WebXR, C#, C++, Python, Qt, Immersive Technologies, Computer Vision, Deep Learning, Digital Twins, Real-time 3D, and Scalable Software Architecture.
-
----
-
-### 🌐 **Socials:**
-
-* [Twitter](https://twitter.com/techieAKR)
-* [Instagram](https://www.instagram.com/techieakr/)
-* [LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/)
-* [Blog](https://medium.com/@techieAKR)
 
 ---
 
