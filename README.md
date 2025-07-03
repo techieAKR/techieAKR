@@ -1,66 +1,177 @@
-# 💫   Akshay Kumar | XR Developer, Solutions Architect, & Innovator 
+# 💫 Akshay Kumar | Senior AI + XR Solution Architect | Innovator in Immersive Technologies
 
-🔭 I’m currently working on: &nbsp;  
-	I craft cutting-edge immersive experiences that transform how we interact with the world.	
+Copenhagen, Denmark | actively seeking roles in Germany & Denmark
 
-👯 Collaboration Interests: &nbsp;  
-Immersive Technology and Digital Twin Projects
+[LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/) | [Email](mailto:baliyan.akr@gmail.com) | [Blog](https://medium.com/@techieAKR) | [Twitter](https://twitter.com/techieAKR) | [Instagram](https://www.instagram.com/techieakr/)
 
-🌱 Skill Development: &nbsp;  
-Computer Vision, OpenCV, Deep Learning with TensorFlow and Keras, PyTorch. &nbsp;  
-
-💬 Areas of Expertise: &nbsp;  
-Unity, C#, Python, Immersive technology, and any general software development questions.
-
-🌐 **Socials:**
 ---
-[Twitter](https://twitter.com/techieAKR) [Instagram](https://www.instagram.com/techieakr/) [LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/) [Blog](https://medium.com/@techieAKR)
 
-💻 Tech Stack:
+### 🚀 **About Me:**
+
+I am an innovative and results-driven AI + XR Solution Architect with over 9 years of experience in designing, developing, and deploying cutting-edge immersive solutions. My expertise spans healthcare, automotive, and enterprise domains, where I leverage Unity, Unreal Engine, and WebXR to create scalable and impactful real-time 3D applications.
+
+I'm passionate about bridging operational knowledge with spatial computing, digital twins, and AI-driven automation to transform complex systems into intuitive, human-centric experiences. Currently pursuing a Master's in Artificial Intelligence, focusing on Computer Vision, Deep Learning, and Generative Models for 3D content, further strengthening my ability to deliver intelligent immersive solutions.
+
 ---
-**Programming Languages:** 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width='50' height='50' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width='50' height='50' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width='50' height='50' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width='50' height='50' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width='50' height='50' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width='50' height='50' /> &nbsp;  
+### 💡 **What I Do:**
 
-**Game Engine:** 
+* **Architect & Lead XR Systems:** Proven track record in leading cross-functional teams and architecting scalable XR solutions, aligning immersive product roadmaps with strategic business goals.
+* **AI-Enhanced Immersive Experiences:** Specializing in integrating computer vision, machine learning, and procedural generation workflows to enrich AR/VR/MR applications for enhanced spatial awareness, automation, and decision-making.
+* **Digital Twins & Industrial Simulation:** Expertise in creating enterprise-grade immersive systems for industrial simulation, training, and digital twin experiences, including CAD-to-XR workflows and data pipeline integration.
+* **Automotive Visualization & Configuration:** Designing real-time 3D experiences, digital showrooms, and interactive configuration tools for the automotive sector, focusing on AI-driven automation and design intelligence.
+* **Medical XR & Training:** Spearheaded cross-platform medical XR applications, increasing training efficiency in surgery and education, and ensuring regulatory compliance.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width='50' height='50' /> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width='70' height='50' /> <img src="https://playcanvas.com/assets/images/PlayCanvas-OG-Image.png" width='95' height='50' /> &nbsp;
-
-**Immersive Technology:**
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEA3XV6K2jw36afzSKFhgFaZ5Fa6S0JsqSQeJcRjLvMev1gPZb3AlqU30BYCMi7WiQ6HU&usqp=CAU" width="50" height="50" /> <img src="https://cdn-icons-png.flaticon.com/128/10645/10645127.png" width="50" height="50" > <img src="https://img.icons8.com/?size=80&id=DxQMFpJEaJO2&format=png" width="50" height="50" >
-
-WebAR, MetaVerse, Spatial Computing, and Digital Twin. &nbsp;  
-
-**Other Tools/SDKs:**
-
-<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="70" height="50" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlmWp5p3RaLQj0geGdVz7d_IvGTFKY93hIQ&s" width="50" height="50">
-<img src="https://plugins.jetbrains.com/files/69/503276/icon/pluginIcon.svg" width="50" height="50">
-<img src="https://asset.brandfetch.io/idgfcHhU31/iduZWg1koN.svg?updated=1668047656352" width="50" height="50">
-<img src="https://static.wikia.nocookie.net/google/images/b/bc/Arcore-logo.png/revision/latest?cb=20190204192627" width="70" height="50">
-<img src="https://camo.githubusercontent.com/781bb94cd79bd10ae7f30e643782a68fc7a381d90fb65a3654b734cd73919e19/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f496c516e7135735475674444563766465f7250353877423674594144715461745a33624a544f587938662d4b3552646f55544d30477a536a587242363347504e4643667a4f584d433675504c4947622d5561394979717341706e315f6730383055534c7478797a435a2d2d2d4f48376f4169307739574c725066773862654c71576761326f44544f" width="70" height="50">
-<img src="https://banner2.cleanpng.com/20180704/eo/kisspng-vuforia-augmented-reality-sdk-ptc-business-frontend-5b3c9a1c2e5d69.5764576715306982681899.jpg" width="85" height="54">
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/284764i9E4B3B818E217F72/image-dimensions/874x307?v=v2" width="130" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Microsoft_Hololens_2.svg/2500px-Microsoft_Hololens_2.svg.png" width="150" height="45">
-<img src="https://www.pcworld.com/wp-content/uploads/2023/04/meta-facebook-headset.jpg?quality=50&strip=all" width="75" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="45" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="50" height="50" />
-          
-          
-          
-
-**HMD:** 
-
-Hololens 2, Magic Leap, Quest, and Apple Vision Pro &nbsp;  
-
-<img src="https://github.com/techieAKR/techieAKR/assets/13736210/7dde480e-b285-43b3-a9e1-c40e4f00ad50" width="25" height="25"> Achievements:
 ---
-• Led the development of a HoloLens2 app that allowed medical students to interact with 3D models of the human anatomy, resulting in a 30% increase in test scores compared to traditional learning methods. &nbsp;  
-• Collaborated with doctors to create an AR app for surgical planning, reducing procedure time by 15% and improving patient outcomes. &nbsp;  
-• Developed a WebXR application for pharmaceutical companies to showcase new drugs in an immersive and interactive way, increasing user engagement by 40%. &nbsp;  
-• Reduced training time for new doctors by 20% by enabling them to practice procedures virtually in a safe and controlled environment. &nbsp;  
-• Developed cross-platform AR app for iPhone and HoloLens, enabling seamless multiplayer interaction. Overcame the challenge of synchronizing device control systems, ensuring a unified user experience.&nbsp;  
 
-          
+### 🔭 **Currently Focusing On:**
+
+* Designing simulation-based XR tools for architectural configuration and scoring scenarios at VELUX A/S, including virtual environments for reviewing structural and energy efficiency layouts.
+* Leveraging my ongoing Master's in AI to integrate advanced Computer Vision, Deep Learning, and Generative Models into real-time 3D applications.
+
+---
+
+### 🤝 **Collaboration Interests:**
+
+I'm keen to collaborate on challenging projects involving:
+
+* **Enterprise AI + XR Solutions:** Particularly in industrial simulation, digital twins, and advanced training systems for sectors like automotive, manufacturing, and healthcare.
+* **Computer Vision & Deep Learning for 3D Content:** Applications in scene understanding, procedural content generation, and intelligent automation within immersive environments.
+* **Human-Computer Interaction (HCI) in Spatial Computing:** Developing intuitive and impactful user experiences in dynamic, high-impact environments.
+
+---
+
+### 💬 **Areas of Expertise:**
+
+Unity, Unreal Engine, WebXR, C#, C++, Python, Qt, Immersive Technologies, Computer Vision, Deep Learning, Digital Twins, Real-time 3D, and Scalable Software Architecture.
+
+---
+
+### 🌐 **Socials:**
+
+* [Twitter](https://twitter.com/techieAKR)
+* [Instagram](https://www.instagram.com/techieakr/)
+* [LinkedIn](https://www.linkedin.com/in/akshay-kumar-august03/)
+* [Blog](https://medium.com/@techieAKR)
+
+---
+
+### 💻 **Tech Stack:**
+
+**Programming Languages:**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+</p>
+
+**Engines & Frameworks:**
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+<img src="https://forum-files-playcanvas-com.s3.dualstack.eu-west-1.amazonaws.com/original/2X/f/f19865d44b5df539a369e8bb815d6001efbc671c.png" alt="PlayCanvas" width="213" height="40"/>
+</p>
+
+**AI/ML & Computer Vision:**
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+</p>
+
+**Development Tools & Pipelines:**
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+</p>
+
+**XR/AR/VR Technologies:**
+- Microsoft HoloLens 2 & MRTK
+- Meta Quest & Oculus SDK
+- ARCore & ARKit
+- Vuforia & WebAR
+- OpenXR & WebXR
+- Magic Leap & Apple Vision Pro
+
+**Specialized Skills:**
+- Digital Twin Development
+- Spatial Computing
+- Real-time 3D Rendering
+- Computer Vision Integration
+- Procedural Content Generation
+- Cross-platform XR Development
+- CAD-to-XR Workflows
+- Industrial Simulation
+
+---
+
+### 🏆 **Key Achievements & Impact:**
+
+* **Optimized Automotive Pipelines:** Created high-performance Python tools that optimized car configurator rendering pipelines, reducing load times by 30%. Engineered headless Unreal automation for procedural content generation, boosting team productivity by 40%.
+* **Revolutionized Medical Training:** Spearheaded a cross-platform medical XR app, utilized by 50,000+ global users, significantly increasing training efficiency in surgery and education. Achieved 20% better knowledge retention using immersive spatial overlays compared to traditional methods.
+* **Streamlined IoT Integration:** Integrated AR interfaces with IoT systems at VELUX A/S, streamlining installation workflows and reducing support tickets by 22%.
+* **Enhanced User Engagement:** Developed reusable code for mobile-based educational XR content, reducing bug rates by 25% and leading to a 15% increase in user engagement by integrating UI/UX pipelines with artists and designers.
+* **Cross-Platform AR Excellence:** Delivered AR/VR modules for Magic Leap, HoloLens, iOS, and WebXR with real-time anatomical visualization, demonstrating deep cross-domain adaptability and robust XR tool development.
+* **Pioneered Surgical Planning:** Collaborated with doctors to create an AR app for surgical planning, resulting in a 15% reduction in procedure time and improved patient outcomes.
+* **Increased Pharmaceutical Engagement:** Developed a WebXR application for pharmaceutical companies to showcase new drugs immersively, increasing user engagement by 40%.
+* **Reduced Training Time:** Cut training time for new doctors by 20% by enabling virtual practice of procedures in a safe and controlled environment.
+
+---
+
+### 🎓 **Education:**
+
+* **Master's in Artificial Intelligence (Ongoing)** 
+    University of Lübeck, Germany | 2024-Present
+    * Focus: Computer Vision, Deep Learning, Generative Models for 3D content, Medical Imaging, Scene Understanding 
+* **Bachelor of Technology (B.Tech), Computer Science** 
+    Dr. A.P.J. Abdul Kalam Technical University, India | 2012-2016
+
+---
+
+### 📜 **Certifications & Learning:**
+
+* Accenture Technology Architect Associate (2022-2023) 
+* HackerRank Problem Solving - Intermediate (2023)
+* Unreal Engine for Automotive Design (Self-study) 
+* Self-directed projects in WebXR, OpenXR, and simulation tooling 
+
+---
+
+### 👋 **Personal Note:**
+
+When not building digital realities, I explore physical ones – traveling, tasting cuisines, and connecting with people. I bring the same curiosity and creativity to XR design, transforming abstract possibilities into human-centric experiences. My goal is to reshape how people experience complex systems, from vehicles to medical procedures, through interactive design, virtual testing, and immersive storytelling. With XR and AI, I aim to put the power of innovation into anyone's hands, making invisible insights visible and intuitive for every practitioner and learner.
+
+---
+
+### 📈 **GitHub Stats:**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=techieAKR&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieAKR&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 **Contribution Graph:**
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techieAKR&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+*⭐ Star this repository if you find it helpful! Let's connect and build amazing XR experiences together.*
